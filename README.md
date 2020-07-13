@@ -1,7 +1,9 @@
 # PHP-MYSQL CRUD Operations!
 
 - git clone the repository
+
   Create Database:
+
 - create database name "collegedb"
 - create table using given below sql statement
 
