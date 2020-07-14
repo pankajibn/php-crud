@@ -16,7 +16,7 @@ CREATE TABLE `students` (
 `email` varchar(50) DEFAULT NULL,
 `course` varchar(20) DEFAULT NULL,
 PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=latin1
 ```
 
 ### Run the Project
